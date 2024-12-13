@@ -1,0 +1,1258 @@
+fileFormatVersion: 2
+guid: 30a4aad2d2a014eeaa5620df2a7e2750
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02296f8d8b91447aa434ae79d58f226
+      internalID: -34447476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233dbb4af8f1647f4a194e38e96a55b3
+      internalID: -53083841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a083c0790f9964b218bd24a4a1d3afd7
+      internalID: -2045091755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904881cc754a94f35a993497e94c69e2
+      internalID: 496988941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77936eebc91714f04b45e8791a6bad5c
+      internalID: 618875314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646db8f599f4f4c6c8745526f3eb4b19
+      internalID: -1023951548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2456a9a9182eb4c00b4881a99be1a088
+      internalID: 52323930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df00662a445f04cdc86ca09bea8c95e3
+      internalID: 1183569119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2575b1051884ee1a691a9cabd27e05
+      internalID: -1283513300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31487c6136d814a29982109fb0638bfd
+      internalID: 1468124274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab4957232fd42b09e8b124f5db0d24
+      internalID: 360959815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e432763b6e844cc82565a0bca72350
+      internalID: -9167679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502c6aced71146e9879406e0aee0441
+      internalID: -968688074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a107efd3af19492caf841e36f6d04e5
+      internalID: 612438428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b9a61967864492d8faad0e9cdc309c
+      internalID: -1270606581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d13cce428f1465d93491148c0ecf12
+      internalID: 1662388937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366842c7d5f34ca2bd9115bdd35a283
+      internalID: 2100676741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c8cdd0612c84d4998a9b18ac4a5f6c
+      internalID: -454177719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf51fa30d1b764dc1b0e9a19fa0c0a97
+      internalID: 1788545696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e46209ce96b44f8b80ffd64cbe9edfd
+      internalID: -1711270710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50390964d92a146a586b7f0d022df889
+      internalID: -1692366411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0481334ffdc43d58f0f07f8e1dfb53
+      internalID: 1693756695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98e50dff17b4cac957102585831771
+      internalID: 174252264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955e9cb106d774d39a7174e941a2ddcd
+      internalID: -495173764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238233f8fb9f14640ab1b6488a2971e9
+      internalID: 1696785269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f524fbe051cf4cecb1af9ba638eeb72
+      internalID: 203269408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6117032666e24e24a4e91c317cb22d9
+      internalID: -548414356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c27b863b9a44b3b859c1b8e6b1700
+      internalID: 996462487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e4b12e8778a4846ac50352c1e55612
+      internalID: 1049662667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea78507d62aac4fd6b407891499b03ba
+      internalID: 762390618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3bc2e64ec554c748e06d3a4f2415b4
+      internalID: 1101208165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf2023baae62454891ea2730dc64ada
+      internalID: 628571171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9302b58c7671f415b894694a6238a92e
+      internalID: 1768947963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e838ce5034b461491c9260041fe13d
+      internalID: -766554584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ebfd0d8ae6f4889b4625ac11a31b71
+      internalID: 1002822848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc6755f51a154e2f8e616ea51013d67
+      internalID: 1618422281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d131e976cd4627bfb314cd637af8a
+      internalID: -297267621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c968c892ed4f04601b4aac56754035ca
+      internalID: -296077528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b58a0fd385443b92a1c21d7eff06a
+      internalID: -781780843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831431cb40c8e4d53be158bab4df7502
+      internalID: -1474127400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc635cb3956874422a97004930e330d9
+      internalID: -1889779341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_41
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005065fa50e344dc39b38d3f71b0cd80
+      internalID: -879147203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_42
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9e26ca5cd984dd09701e60cd319d47
+      internalID: -24580615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405af1c59b9b94daaa35e024725b211c
+      internalID: -575050112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8715d52dd8e6464784f9d21862738c5
+      internalID: -2016418260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a42e9838c004550b3ae21c9a2c545f
+      internalID: 2144902648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c06482c45a420892fe285b48f25da
+      internalID: -833331256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d256dc7fbd2f24966a4509d280e0b0a0
+      internalID: 1822280404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c87ad8fa1ac4b9783b9e46c8d71bb5
+      internalID: -174069913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3278c7634f518495a9446246b3e9b0d9
+      internalID: -1590090990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac7a5af7d21b45f3844704ee2b69b3b
+      internalID: 1339827997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Pixel Art GUI Elements copy 5_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9c9ba31a73a45a2a332953ebff700b
+      internalID: -430305685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2D Pixel Art GUI Elements copy 5_0: -34447476
+      2D Pixel Art GUI Elements copy 5_1: -53083841
+      2D Pixel Art GUI Elements copy 5_10: 360959815
+      2D Pixel Art GUI Elements copy 5_11: -9167679
+      2D Pixel Art GUI Elements copy 5_12: -968688074
+      2D Pixel Art GUI Elements copy 5_13: 612438428
+      2D Pixel Art GUI Elements copy 5_14: -1270606581
+      2D Pixel Art GUI Elements copy 5_15: 1662388937
+      2D Pixel Art GUI Elements copy 5_16: 2100676741
+      2D Pixel Art GUI Elements copy 5_17: -454177719
+      2D Pixel Art GUI Elements copy 5_18: 1788545696
+      2D Pixel Art GUI Elements copy 5_19: -1711270710
+      2D Pixel Art GUI Elements copy 5_2: -2045091755
+      2D Pixel Art GUI Elements copy 5_20: -1692366411
+      2D Pixel Art GUI Elements copy 5_21: 1693756695
+      2D Pixel Art GUI Elements copy 5_22: 174252264
+      2D Pixel Art GUI Elements copy 5_23: -495173764
+      2D Pixel Art GUI Elements copy 5_24: 1696785269
+      2D Pixel Art GUI Elements copy 5_25: 203269408
+      2D Pixel Art GUI Elements copy 5_26: -548414356
+      2D Pixel Art GUI Elements copy 5_27: 996462487
+      2D Pixel Art GUI Elements copy 5_28: 1049662667
+      2D Pixel Art GUI Elements copy 5_29: 762390618
+      2D Pixel Art GUI Elements copy 5_3: 496988941
+      2D Pixel Art GUI Elements copy 5_30: 1101208165
+      2D Pixel Art GUI Elements copy 5_31: 628571171
+      2D Pixel Art GUI Elements copy 5_32: 1768947963
+      2D Pixel Art GUI Elements copy 5_33: -766554584
+      2D Pixel Art GUI Elements copy 5_34: 1002822848
+      2D Pixel Art GUI Elements copy 5_35: 1618422281
+      2D Pixel Art GUI Elements copy 5_36: -297267621
+      2D Pixel Art GUI Elements copy 5_37: -296077528
+      2D Pixel Art GUI Elements copy 5_38: -781780843
+      2D Pixel Art GUI Elements copy 5_39: -1474127400
+      2D Pixel Art GUI Elements copy 5_4: 618875314
+      2D Pixel Art GUI Elements copy 5_40: -1889779341
+      2D Pixel Art GUI Elements copy 5_41: -879147203
+      2D Pixel Art GUI Elements copy 5_42: -24580615
+      2D Pixel Art GUI Elements copy 5_43: -575050112
+      2D Pixel Art GUI Elements copy 5_44: -2016418260
+      2D Pixel Art GUI Elements copy 5_45: 2144902648
+      2D Pixel Art GUI Elements copy 5_46: -833331256
+      2D Pixel Art GUI Elements copy 5_47: 1822280404
+      2D Pixel Art GUI Elements copy 5_48: -174069913
+      2D Pixel Art GUI Elements copy 5_49: -1590090990
+      2D Pixel Art GUI Elements copy 5_5: -1023951548
+      2D Pixel Art GUI Elements copy 5_50: 1339827997
+      2D Pixel Art GUI Elements copy 5_51: -430305685
+      2D Pixel Art GUI Elements copy 5_6: 52323930
+      2D Pixel Art GUI Elements copy 5_7: 1183569119
+      2D Pixel Art GUI Elements copy 5_8: -1283513300
+      2D Pixel Art GUI Elements copy 5_9: 1468124274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

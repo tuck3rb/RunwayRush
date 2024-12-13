@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Aircraft
+  - Radar Elements
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 64228739
+    locked: 0
+  - name: Landscape
+    uniqueID: 3383776975
+    locked: 0
+  - name: Runways
+    uniqueID: 2448485229
+    locked: 0
+  - name: Aircraft
+    uniqueID: 3376788005
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
